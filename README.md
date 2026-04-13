@@ -1,4 +1,5 @@
 # Document Restoration Tool v3.1
+https://doi.org/10.5281/zenodo.19556658
 
 **Pre-analytical reconstruction for degraded text.**  
 Part of the Narrovue audit pipeline.
